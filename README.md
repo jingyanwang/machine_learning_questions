@@ -17,3 +17,11 @@ upwork
 
 
 6. what is the performance meausre of a ranking system 
+
+
+7. how to prevent the position bias
+
+8. how to prevent the feedback loop bias of ranking system
+
+
+9. What is SHAP of ranking system
