@@ -115,7 +115,9 @@ https://www.kdnuggets.com/2018/09/object-detection-image-classification-yolo.htm
 ## liquidity interview
 
 
-1. pyspark
+1. machine learning engineer
+
+pyspark
 
 mapreduce
 
@@ -126,8 +128,6 @@ vertical
 snowflow
 
 airflow
-
-bias vs varience
 
 etl
 
@@ -154,3 +154,5 @@ time forecasting , metric
 python argumented parameters and parameters
 
 advantages of yolo
+
+bias vs varience
