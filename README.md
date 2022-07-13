@@ -27,8 +27,6 @@ upwork
 9. What is SHAP of ranking system
 
 
-
-
 # interview_questions
 
 # upwork machine learning engineer
@@ -125,7 +123,7 @@ schema
 
 vertical 
 
-snowflow
+snowflake 
 
 airflow
 
