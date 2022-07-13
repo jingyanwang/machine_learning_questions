@@ -139,6 +139,8 @@ atina query
 
 aws lambda service architecture
 
+object-oriented language
+
 2. data science 
 
 evaluation metric
